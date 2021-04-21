@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"service","l":"GenerarTienda"},{"p":"service","l":"GenerarTiendaTest"},{"p":"main","l":"Principal"},{"p":"entity","l":"Producto"},{"p":"simulador","l":"Randoms"},{"p":"simulador","l":"RandomsTest"},{"p":"service","l":"Servicio"},{"p":"service","l":"ServicioTest"},{"p":"entity","l":"Tienda"}]
